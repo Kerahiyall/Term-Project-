@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.6068/DP16C87EEC15A1</identifier>
+  <creators>
+    <creator>
+      <creatorName>United States Equal Employment Opportunity Commission</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>TREND: United States Equal Employment Opportunity Commission. Job Patterns for Minorities and Women in Private Industry (EEO-1): Count of Employees in Private Industry | Industry Code: 22 | Industry: Utilities | Job Category: Senior Officials and Managers | Race: White, Black | Gender: Male, Female, 2007 - 2017. Data Planet™ Statistical Datasets: A SAGE Publishing Resource Dataset-ID:  084-001-001</title>
+  </titles>
+  <publisher>Data Planet™ Statistical Datasets: A SAGE Publishing Resource</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>Private Sector</subject>
+    <subject>Ethnicity</subject>
+    <subject>Employment</subject>
+    <subject>Race</subject>
+    <subject>Gender</subject>
+  </subjects>
+  <language>eng</language>
+  <resourceType resourceTypeGeneral="Other">DataSheet</resourceType>
+  <rightsList>
+    <rights rightsURI="http://homepage.data-planet.com/terms-use">subscription resource</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">datasets.shared.infosheet.CitationMgr@7c5
+
+Dataset: Reports the number of employees in private-sector industries by industry grouping and job category in total, and by race/ethnicity and gender.
+As part of its mandate under Title VII of the Civil Rights Act of 1964, as amended, the Equal Employment Opportunity Commission requires periodic reports from public and private employers, and unions and labor organizations that indicate the composition of their work forces by sex and by race/ethnic category. Key among these reports is the EEO-1, which is collected annually from private employers with 100 or more employees or federal contractors with 50 or more employees. Employment data includes all full-time and part-time employees who were employed during the payroll period selected by the employer between October 1 and December 31 (workforce snapshot. The confidentiality provision of the Civil Rights Act of 1964 prohibits release of individually identifiable information. However, data in aggregated format for major geographic areas and by industry group for private employers (EEO-1) are available. For definitions of job categories, race, and ethnicity, see the technical documentation, with additional detail provided in the EEOC Job Classification Guide (https://www.eeoc.gov/employers/eeo1survey/2007instructions.cfm).
+https://www.eeoc.gov/eeoc/statistics/employment/jobpat-eeo1/
+
+
+Category: Labor and Employment
+
+Subject: Private Sector, Ethnicity, Employment, Race, Gender
+
+Source: United States Equal Employment Opportunity Commission
+The US Equal Employment Opportunity Commission (EEOC) is responsible for enforcing federal laws that make it illegal to discriminate against a job applicant or an employee because of the person's race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age (40 or older), disability or genetic information. It is also illegal to discriminate against a person because the person complained about discrimination, filed a charge of discrimination, or participated in an employment discrimination investigation or lawsuit. Most employers with at least 15 employees are covered by EEOC laws (20 employees in age discrimination cases). Most labor unions and employment agencies are also covered. The laws apply to all types of work situations, including hiring, firing, promotions, harassment, training, wages, and benefits. The EEOC has the authority to investigate charges of discrimination against employers who are covered by the law. EEOC also works to prevent discrimination through outreach, education and technical assistance programs.
+https://www.eeoc.gov/</description>
+  </descriptions>
+</resource>
